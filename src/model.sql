@@ -1,3 +1,5 @@
+-- For all days standart model, use this before run scripts all days
+
 create table person
 ( id bigint primary key ,
   name varchar not null,
